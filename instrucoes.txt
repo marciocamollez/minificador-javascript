@@ -1,0 +1,4 @@
+comando "node uglify-2.js" ou "node uglify-3.js" para rodar
+
+uglify 2 minifica 1 arquivo só
+o 3 junta todos da pasta e faz um só 
